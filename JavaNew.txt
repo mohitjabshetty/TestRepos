@@ -4,7 +4,8 @@ Welcoome to Java
 Concepts
 -OOP
 -Exception
-
+-Threads
+-Collection
 
 
 -Thank you
